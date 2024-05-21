@@ -1,0 +1,11 @@
+C:\Users\spere\Desktop\Практика\help\help\bin\Debug\help.exe.config
+C:\Users\spere\Desktop\Практика\help\help\bin\Debug\help.exe
+C:\Users\spere\Desktop\Практика\help\help\bin\Debug\help.pdb
+C:\Users\spere\Desktop\Практика\help\help\obj\Debug\help.csproj.AssemblyReference.cache
+C:\Users\spere\Desktop\Практика\help\help\obj\Debug\help.csproj.SuggestedBindingRedirects.cache
+C:\Users\spere\Desktop\Практика\help\help\obj\Debug\help.Form1.resources
+C:\Users\spere\Desktop\Практика\help\help\obj\Debug\help.Properties.Resources.resources
+C:\Users\spere\Desktop\Практика\help\help\obj\Debug\help.csproj.GenerateResource.cache
+C:\Users\spere\Desktop\Практика\help\help\obj\Debug\help.csproj.CoreCompileInputs.cache
+C:\Users\spere\Desktop\Практика\help\help\obj\Debug\help.exe
+C:\Users\spere\Desktop\Практика\help\help\obj\Debug\help.pdb
